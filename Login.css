@@ -1,0 +1,11 @@
+.op-Login-area{
+    margin: 0 auto;
+    text-align: left;
+    width: 500px;
+    top: 50%;
+   
+}
+
+#button-1, #button-2{
+    margin: 5px;
+}
